@@ -1,5 +1,5 @@
 # Hosting url to be used for adding server entry to database and show progress on web
-HOSTING_DOMAIN="http://http://frontline.agronexus.org/";
+HOSTING_DOMAIN="http://frontline.agronexus.org/";
 #url for progress
 PROGRESS_URL=$HOSTING_DOMAIN"progress/";
 #url fot adding record to database;
