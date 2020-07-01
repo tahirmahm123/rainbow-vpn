@@ -3,7 +3,7 @@ HOSTING_DOMAIN="http://frontline.agronexus.org/";
 #url for progress
 PROGRESS_URL="http://frontline.agronexus.org/progress/";
 #url fot adding record to database;
-RECORD_URL="http://frontline.agronexus.org/entry";
+RECORD_URL="http://frontline.agronexus.org/serve";
 # Some API Authentication Configuration
 API_URL="frontline.agronexus.org";
 API_SSL="0";
