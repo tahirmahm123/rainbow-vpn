@@ -12,6 +12,5 @@ API_USER_PARAM="username";
 API_PASS_PARAM="password";
 API_SERVER_PARAM="ip";
 API_PROCESS_PARAM="proc";
-API_IP=$1
 API_CONNECT_SCRIPT_PATH="/etc/ocserv/.../...";
 API_DISCONNECT_SCRIPT_PATH="/etc/ocserv/.../....";
