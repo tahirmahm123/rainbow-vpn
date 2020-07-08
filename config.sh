@@ -1,5 +1,6 @@
 # Hosting url to be used for adding server entry to database and show progress on web
-_DOMAIN="frontline-vpn.com"
+_DOMAIN="panel.
+frontline-vpn.com"
 HOSTING_DOMAIN="https://"$_DOMAIN"/";
 #url for progress
 PROGRESS_URL=$HOSTING_DOMAIN"progress/";
