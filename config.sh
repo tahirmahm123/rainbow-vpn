@@ -1,5 +1,5 @@
 # Hosting url to be used for adding server entry to database and show progress on web
-_DOMAIN="ringervpanel.com"
+_DOMAIN="itelvpn.net"
 HOSTING_DOMAIN="https://"$_DOMAIN"/";
 #url for progress
 PROGRESS_URL=$HOSTING_DOMAIN"progress/";
