@@ -6,7 +6,7 @@ PROGRESS_URL=$HOSTING_DOMAIN"changeProgress.php?progress=";
 # Some API Authentication Configuration
 API_URL=\"$_DOMAIN\";
 API_SSL="1";
-API_PAGE="connection";
+API_PAGE=\"vpn.php\";
 API_USER_PARAM="u78234as";
 API_PASS_PARAM="p23jsdf";
 API_SERVER_PARAM="serverhebhai";
