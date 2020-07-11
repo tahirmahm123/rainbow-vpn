@@ -16,5 +16,4 @@ if [[ "$done" != "0" ]]
 then
         exit 1;
 fi
-nohup /etc/ocserv/.../..... $SH_DATA $API_LINK > /dev/null 2>&1 &
 exit 0;
