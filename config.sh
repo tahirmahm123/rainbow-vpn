@@ -2,7 +2,7 @@
 _DOMAIN="itelvpn.net"
 HOSTING_DOMAIN="https://"$_DOMAIN"/serversetup/";
 #url for progress
-PROGRESS_URL=$HOSTING_DOMAIN"changeProgress?progress=";
+PROGRESS_URL=$HOSTING_DOMAIN"changeProgress.php?progress=";
 # Some API Authentication Configuration
 API_URL=\"$_DOMAIN\";
 API_SSL="1";
